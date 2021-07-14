@@ -13,6 +13,6 @@ public class LoginController {
     @RequestMapping("/login")
     public String login(){
         System.out.println("登陆成功");
-        return "you are pig";
+        return "you are apple";
     }
 }
